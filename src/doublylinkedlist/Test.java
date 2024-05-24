@@ -31,14 +31,13 @@ public class Test {
 		System.out.println("first element is : "+list.getfirst());
 		System.out.println("last element is : "+list.getlast());
 		System.out.println();
-		System.out.println("removed : "+list.removefirst());
+		System.out.println("removed first: "+list.removefirst());
 		System.out.println();
 		System.out.println(list.isEmpty());
 		System.out.println("list size = "+list.getSize());
 		System.out.println("first element is : "+list.getfirst());
 		System.out.println("last element is : "+list.getlast());
 		System.out.println(list.getClass());
-		
 		
 		
 		
